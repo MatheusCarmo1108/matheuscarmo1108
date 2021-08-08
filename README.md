@@ -8,7 +8,7 @@
 - 🐳 *Docker*: Running, managing and distributing applications with containers
 - 🐋 *Kubernetes*: Work with Container orchestration, monitoring and deploy 
 - 🧢 *Fedora*: Some knowledge in Linux Operating System (RPM-based)
-- ⛅ *GCP*: Basic knowledge of cloud infrastructure and provisioning Google Cloud Plataform
+- ⛅ *GCP*: Basic knowledge of cloud infrastructure and provisioning using Google Cloud Plataform
 - 💲 *Scripts*: i have been automating boring stuffs with shell scripts
 ##
 <div> 
