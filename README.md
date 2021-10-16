@@ -2,14 +2,13 @@
 ### About me:
 - ✨ Pronouns: He/Him/His
 - 🐢 I’m currently working at [Birmind](https://birmind.com.br)
-- 🌱 I’m currently learning about Cloud Infrastructure and DevOps Tools
 - ⚡ Fun fact: *I like latin music, but i know nothing about spanish* 
 ### Technologies and Skills 
-- 🐳 *Docker*: Running, managing and distributing applications with containers
+- 🐳 *Containers*: Running, managing and distributing applications with containers
 - 🐋 *Kubernetes*: Work with Container orchestration, monitoring and deploy 
 - 🧢 *Fedora*: Some knowledge in Linux Operating System (RPM-based)
 - ⛅ *GCP*: Basic knowledge of cloud infrastructure and provisioning using Google Cloud Plataform
-- 💲 *Scripts*: i have been automating boring stuffs with shell scripts
+- 💲 *Scripts*: I have been automating boring stuffs with shell scripts
 ##
 <div> 
   <a href="https://www.instagram.com/theuz_c/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
