@@ -5,8 +5,8 @@
 ### Technologies and Skills 
 - 🐳 *Containers*: Running, managing and distributing applications with containers
 - 🐋 *Kubernetes*: Work with Container orchestration, monitoring and deploy 
-- 🧢 *Fedora*: Some knowledge in Linux Operating System (RPM-based)
-- ⛅ *GCP*: Basic knowledge of cloud infrastructure and provisioning using Google Cloud Plataform
+- 🧢 *Fedora & MacOS*: Knowledge in unix like systems
+- ⛅ *Azure | AWS | GCP*: knowledge of cloud infrastructure and provisioning
 - 💲 *Scripts*: I have been automating boring stuffs with shell scripts
 ##
 <div> 
