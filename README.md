@@ -1,7 +1,6 @@
 ## Heey, I'm *Matheus Carmo*
 ### About me:
 - ✨ Pronouns: He/Him/His
-- 🐢 I’m currently working at [Birmind](https://birmind.com.br)
 - ⚡ Fun fact: *I like latin music, but i know nothing about spanish* 
 ### Technologies and Skills 
 - 🐳 *Containers*: Running, managing and distributing applications with containers
